@@ -1,0 +1,1 @@
+{"id":"41fd4ca7-f4fa-400b-9934-a0c8ae19ecd2","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"OrderFulfillmentandProcurement.Stockmaintenanceprocess","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

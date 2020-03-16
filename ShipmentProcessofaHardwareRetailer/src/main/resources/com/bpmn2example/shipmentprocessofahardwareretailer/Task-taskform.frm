@@ -1,0 +1,1 @@
+{"id":"e12ec5a6-6e6b-4472-9c76-800c9636b3f5","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"ShipmentProcessofaHardwareRetailer.Shipment","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

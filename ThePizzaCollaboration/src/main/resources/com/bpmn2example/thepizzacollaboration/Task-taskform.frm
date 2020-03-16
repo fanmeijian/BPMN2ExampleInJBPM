@@ -1,0 +1,1 @@
+{"id":"7600dfc0-c9ac-4d15-86dc-6220a8bab45c","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"ThePizzaCollaboration.pizza","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

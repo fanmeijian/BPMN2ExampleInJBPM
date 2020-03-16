@@ -1,0 +1,1 @@
+{"id":"097cbfe4-97ea-4dd8-8586-6c65a7182144","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"OrderFulfillmentandProcurement.OrderFulfillment","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
